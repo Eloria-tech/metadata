@@ -1,0 +1,17 @@
+{
+    "id": 2,
+    "image": "https://eloria-tech.github.io/metadata/img/eloria-chest-1.png",
+    "token_id": "2",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "TA - Early Access Pack",
+    "description": "Test Asset - Early Access Eloria Assets Pack",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "Uncommon"
+      }
+    ]
+  }

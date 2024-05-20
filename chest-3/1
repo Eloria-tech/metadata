@@ -1,7 +1,7 @@
 {
-  "id": 2,
-  "image": "https://eloria-tech.github.io/metadata/img/eloria-chest-2.png",
-  "token_id": "2",
+  "id": 1,
+  "image": "https://eloria-tech.github.io/metadata/img/eloria-chest-3.png",
+  "token_id": "1",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
@@ -11,7 +11,7 @@
   "attributes": [
     {
       "trait_type": "rarity",
-      "value": "Rare"
+      "value": "Mythic"
     }
   ]
 }
